@@ -4,8 +4,8 @@ tags:
   - python
   - programmazione
 ---
-ciao $$A = 4 \pi r$$
+ciao bello, modificami questo $$A = 4 \pi r$$
 ```python
 def main():
 	print("Hello World")
-```
+```                                                                                                                                                                                                                                                                                                                                                                                                    
