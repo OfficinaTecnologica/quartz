@@ -6,7 +6,7 @@ al posto di NOMECOMANDO devi mettere il nome del comando. Sì, esatto, ho dovuto
 directory = cartella, un contenitore in cui ci sono i file
 - elencare i file in una directory: `ls`
 - come capire in che cartella sei `pwd`
-- cambiare directory: `cd PERCORSO DELLA DIRECTORY`
+- cambiare directory: `cd PERCORSODIRECTORY`
 - andare alla home: `cd`
 - andare alla directory un livello sopra `cd ..`
 - copiare un file `cp NOMEFILE NOMENUOVOFILE`
@@ -16,8 +16,8 @@ directory = cartella, un contenitore in cui ci sono i file
 
 **Installare programmi**
 - per cercare un programma: `dnf search`
-- per installare un programma: `sudo dnf install NOMEPROGRAMMA
+- per installare un programma: `sudo dnf install NOMEPROGRAMMA`
 
-al posto di NOMEPROGRAMMA devi mettere il nome del programma
+al posto di NOMEPROGRAMMA devi mettere il nome del programma, sì, qualcuno prima non era attento
 - per rimuovere un programma: `dnf remove (nome del programma)`
 
