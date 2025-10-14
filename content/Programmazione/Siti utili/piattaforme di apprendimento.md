@@ -1,4 +1,3 @@
-ciao
 
 https://screeps.com
 

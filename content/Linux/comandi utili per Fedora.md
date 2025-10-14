@@ -20,4 +20,3 @@ directory = cartella, un contenitore in cui ci sono i file
 
 al posto di NOMEPROGRAMMA devi mettere il nome del programma, sì, qualcuno prima non era attento
 - per rimuovere un programma: `dnf remove (nome del programma)`
-
